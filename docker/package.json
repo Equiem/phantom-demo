@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "phantomcss": "^1.1.3"
+  },
+  "scripts": {
+    "test": "casperjs test --verbose --log-level=debug"
+  },
+  "private": true
+}
